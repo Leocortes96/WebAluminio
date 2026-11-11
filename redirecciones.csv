@@ -1,0 +1,9 @@
+source,target,estado_actual,accion
+/portafolio/ventanas-antiruido/,/portafolio/ventanas-antirruido/,404,CREAR
+/portafolio/instalaciones-y-asesorias/,/portafolio/remodelaciones-integrales/,404,CREAR (confirmar destino)
+/portafolio/divisiones-para-oficinas/,/portafolio/divisiones-en-vidrio/,301 a ?p=356 (no público),CORREGIR
+/portafolio/divisiones-de-bano/,/portafolio/divisiones-de-bano-en-vidrio-templado/,301 a soluciones-en-vidrio,CORREGIR
+/portafolio/vidrio/,/portafolio/soluciones-en-vidrio/,301 a divisiones-en-vidrio,CORREGIR
+/portafolio/pasamanos/,/portafolio/pasamanos-en-acero-inoxidable-y-vidrio/,301 a barandas-en-acero-inoxidable,REVISAR
+/portafolio/fachadas-comerciales/,/portafolio/fachadas-arquitectonicas/,301 correcto,OK
+/portafolio/aluminio/,/portafolio/soluciones-en-aluminio/,301 correcto,OK
